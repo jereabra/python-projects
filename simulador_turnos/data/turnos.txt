@@ -1,0 +1,11 @@
+1. jere, 22 años, Dermatología
+2. Debi, 23 años, Clínica
+3. Fulano, 67 años, Cardiología
+4. Magoya, 82 años, Dermatología
+5. Mauro, 42 años, Clínica
+6. Andrea, 13 años, Clínica
+7. Alejandro, 52 años, Cardiología
+8. Angel, 74 años, Dermatología
+9. Thiago, 29 años, Dermatología
+10. Gabriela, 57 años, Clínica
+11. jose, 13 años, Cardiología
