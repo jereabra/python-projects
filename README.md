@@ -27,11 +27,6 @@ El objetivo principal de esta serie de proyectos es desarrollar sistemáticament
 * **English:** Basic CLI tool for managing appointments and schedules, emphasizing fundamental Python operations.
 * **Español:** Herramienta básica CLI para gestionar turnos y agendas, enfatizando operaciones fundamentales de Python.
 
-### Persistent Turn Manager
-
-* **English:** Enhanced CLI application with data persistence using JSON and CSV files, practicing file handling and data serialization.
-* **Español:** Aplicación CLI mejorada con persistencia de datos usando archivos JSON y CSV, practicando el manejo de archivos y serialización de datos.
-
 ### Music Library CLI
 
 * **English:** Object-oriented Python application for managing personal music collections, practicing OOP concepts, data validation, and CRUD operations.
