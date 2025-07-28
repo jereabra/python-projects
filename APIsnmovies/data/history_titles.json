@@ -1,0 +1,267 @@
+[
+  {
+    "Title": "Shrek",
+    "Year": "2001",
+    "Rated": "PG",
+    "Released": "18 May 2001",
+    "Runtime": "90 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Andrew Adamson, Vicky Jenson",
+    "Writer": "William Steig, Ted Elliott, Terry Rossio",
+    "Actors": "Mike Myers, Eddie Murphy, Cameron Diaz",
+    "Plot": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 40 wins & 60 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2FkMTRkNTUtYTI0NC00ZjI4LWI5MzUtMDFmOGY0NmU2OGY1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ],
+    "Metascore": "84",
+    "imdbRating": "7.9",
+    "imdbVotes": "779,468",
+    "imdbID": "tt0126029",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$268,698,241",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Shrek 2",
+    "Year": "2004",
+    "Rated": "PG",
+    "Released": "19 May 2004",
+    "Runtime": "93 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Andrew Adamson, Kelly Asbury, Conrad Vernon",
+    "Writer": "William Steig, Andrew Adamson, Joe Stillman",
+    "Actors": "Mike Myers, Eddie Murphy, Cameron Diaz",
+    "Plot": "Shrek and Fiona travel to the Kingdom of Far Far Away, where Fiona's parents are King and Queen, to celebrate their marriage. When they arrive, they find they are not as welcome as they thought they would be.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 2 Oscars. 18 wins & 52 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzNmNjQ1NmUtNzhiZS00YWE2LTg4N2ItZTA2ODdmOTMwOTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "89%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.4",
+    "imdbVotes": "535,718",
+    "imdbID": "tt0298148",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$444,978,202",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Harry Potter and the Deathly Hallows: Part 2",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "15 Jul 2011",
+    "Runtime": "130 min",
+    "Genre": "Adventure, Family, Fantasy",
+    "Director": "David Yates",
+    "Writer": "Steve Kloves, J.K. Rowling",
+    "Actors": "Daniel Radcliffe, Emma Watson, Rupert Grint",
+    "Plot": "As the battle between the forces of good and evil in the wizarding world escalates, Harry Potter draws ever closer to his final confrontation with Voldemort.",
+    "Language": "English, Latin",
+    "Country": "United Kingdom, United States",
+    "Awards": "Nominated for 3 Oscars. 49 wins & 96 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "85/100"
+      }
+    ],
+    "Metascore": "85",
+    "imdbRating": "8.1",
+    "imdbVotes": "1,000,668",
+    "imdbID": "tt1201607",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$381,447,587",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Game of Thrones",
+    "Year": "2011–2019",
+    "Rated": "TV-MA",
+    "Released": "17 Apr 2011",
+    "Runtime": "57 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "N/A",
+    "Writer": "David Benioff, D.B. Weiss",
+    "Actors": "Emilia Clarke, Peter Dinklage, Kit Harington",
+    "Plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+    "Language": "English",
+    "Country": "United States, United Kingdom",
+    "Awards": "Won 59 Primetime Emmys. 395 wins & 655 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.2",
+    "imdbVotes": "2,457,210",
+    "imdbID": "tt0944947",
+    "Type": "series",
+    "totalSeasons": "8",
+    "Response": "True"
+  },
+  {
+    "Title": "The Office",
+    "Year": "2005–2013",
+    "Rated": "TV-14",
+    "Released": "24 Mar 2005",
+    "Runtime": "22 min",
+    "Genre": "Comedy",
+    "Director": "N/A",
+    "Writer": "Greg Daniels, Ricky Gervais, Stephen Merchant",
+    "Actors": "Steve Carell, Jenna Fischer, John Krasinski",
+    "Plot": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
+    "Language": "English, Spanish, German, French",
+    "Country": "United States",
+    "Awards": "Won 5 Primetime Emmys. 59 wins & 211 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.0",
+    "imdbVotes": "783,728",
+    "imdbID": "tt0386676",
+    "Type": "series",
+    "totalSeasons": "9",
+    "Response": "True"
+  },
+  {
+    "Title": "Friends",
+    "Year": "1994–2004",
+    "Rated": "TV-14",
+    "Released": "22 Sep 1994",
+    "Runtime": "22 min",
+    "Genre": "Comedy, Romance",
+    "Director": "N/A",
+    "Writer": "David Crane, Marta Kauffman",
+    "Actors": "Jennifer Aniston, Courteney Cox, Lisa Kudrow",
+    "Plot": "Follows the personal and professional lives of six twenty to thirty year-old friends living in the Manhattan borough of New York City.",
+    "Language": "English, Spanish, Italian, French, Dutch, Hebrew",
+    "Country": "United States",
+    "Awards": "Won 6 Primetime Emmys. 79 wins & 231 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.9/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.9",
+    "imdbVotes": "1,152,885",
+    "imdbID": "tt0108778",
+    "Type": "series",
+    "totalSeasons": "10",
+    "Response": "True"
+  },
+  {
+    "Title": "Fullmetal Alchemist: Brotherhood",
+    "Year": "2009–2010",
+    "Rated": "TV-14",
+    "Released": "09 Apr 2009",
+    "Runtime": "54S min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "N/A",
+    "Writer": "Hiromu Arakawa",
+    "Actors": "Kent Williams, Iemasa Kayumi, Vic Mignogna",
+    "Plot": "Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms.",
+    "Language": "Japanese, English, French, German, Portuguese, Spanish",
+    "Country": "Japan",
+    "Awards": "3 wins & 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzNiODA5NjYtYWExZS00OTc4LTg3N2ItYWYwYTUyYmM5MWViXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.1/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.1",
+    "imdbVotes": "225,167",
+    "imdbID": "tt1355642",
+    "Type": "series",
+    "totalSeasons": "1",
+    "Response": "True"
+  },
+  {
+    "Title": "Avatar: The Last Airbender",
+    "Year": "2005–2008",
+    "Rated": "TV-Y7-FV",
+    "Released": "21 Feb 2005",
+    "Runtime": "23 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "N/A",
+    "Writer": "Michael Dante DiMartino, Bryan Konietzko",
+    "Actors": "Dee Bradley Baker, Zach Tyler Eisen, Mae Whitman",
+    "Plot": "In a war-torn world of elemental powers, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+    "Language": "English",
+    "Country": "United States, South Korea",
+    "Awards": "Won 1 Primetime Emmy. 9 wins & 7 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDMwMThjYWYtY2Q2OS00OGM2LTlkODQtNDJlZTZmMjAyYmFhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.3",
+    "imdbVotes": "408,598",
+    "imdbID": "tt0417299",
+    "Type": "series",
+    "totalSeasons": "3",
+    "Response": "True"
+  }
+]
